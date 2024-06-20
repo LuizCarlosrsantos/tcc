@@ -1,0 +1,14 @@
+npm install - necessário instalar nodejs
+composer install - necessário instalar composer
+
+php artisan serve
+npm run build/dev - iniciar a compilação do programa.
+
+Para criar as tabelas do banco
+php artisan migrate
+
+Para criar os primeiros registros
+php artisan db:seed
+
+Após acessar o navegador e colocar 127.0.0.1:8000
+Clickar em Generate App Key.
